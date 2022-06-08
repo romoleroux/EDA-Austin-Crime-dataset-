@@ -1,0 +1,11 @@
+El primer paso fue elegir un tema y, en lo personal, fue el más complicado. Barajé muchas opciones sin conseguir decidirme por ninguna hasta 3 días antes de la entrega. Nunca me había planteado hacer un proyecto de datos por mi mismo y estaba (o más bien sigo) más peocupado por manejar el aspecto técnico de las liberías que de buscar un tema y utilizar los conocimientos para  emprender.
+
+Una vez que conseguí elegir el tema del EDA, comencé a explorar los datos. Una de las primeras cosas que noté fue que la mayoría de ellos eran de tipo categorico, lo cual fue una desafío ya que mi intención era intentar utilizar todo lo aprendido en clase. Sin embargo, creo que este aspecto junto con mis habilidades aún si desarrollar completamente dificultaron la obtención de algunos los plots. Puesto que había invertido demasiado tiempo en el primer paso y la fecha de entrega era inminente, no hubo más opción que seguir adelante e intentar encontrar respuestas a preguntas todavías inexistentes.
+
+Siendo completamente sincero, no estaba del todo convencido con la tematica del proyecto. No obstante, a medida que le daba más oportunidad al tema y navegaba más en su informacion se volvía mas interesante. Se me ocurrió crear una presentacón de forma aplicación, por lo que recurrí a streamlit.io. Lamentablemente solo pude usar esta tecnología en las últimas 5 horas antes de la presentación, me hubiera gustado trabajar más con ella, al igual que explorar y trabajar más con los datos.
+
+Hice dos tipo de formatos: el que use para streamlit.io y donde exploraba los datos. A streamlit.io solo recurría con la información que iba a mostrar o que requería para ir dándole forma limpia y ordenada.
+
+Puntos en mi contra: siendo honesto no me dio tiempo a trabajar de forma ordenada con los códigos y presentarlos de forma más clara y profesional.
+
+Los datos fueron extraidos de kaggle y de una página de Estados Unidos.
